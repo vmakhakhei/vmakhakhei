@@ -1,4 +1,9 @@
-### Hi there 👋
+## **Hi there, I'm Uladzislau!** 👋
+### Manual QA/AQA-Python Student
+______________________________________________
+
+- 🌱 I’m currently learning python
+-  :globe_with_meridians: I speack English B1, Russian/Belorussian
 
 <!--
 **vmakhakhei/vmakhakhei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
