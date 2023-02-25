@@ -3,7 +3,7 @@
 ______________________________________________
 
 - 🌱 I’m currently learning python
--  :globe_with_meridians: I speack English B1, Russian/Belorussian
+-  :globe_with_meridians: I speak: English(B1), Belarusian(Native), Russian(Native)
 
 <!--
 **vmakhakhei/vmakhakhei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
