@@ -1,6 +1,5 @@
 # **Hi there, I'm Uladzislau!** 👋
-### QA
-### AQA-Python Student
+### QA-manual / AQA-Python Student
 ______________________________________________
 
 - 🌱 I’m currently learning python
